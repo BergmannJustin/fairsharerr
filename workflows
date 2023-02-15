@@ -1,4 +1,4 @@
-name: Our first python CI
+ame: Our first python CI
 
 on:
   push:
